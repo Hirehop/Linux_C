@@ -1,9 +1,9 @@
-Functions:
+## Functions:
 ```
-1.int setDisplayMode(int fd,int option)</br>
+1.int setDisplayMode(int fd,int option)
     rtv:
-        success->0  </br>
-        fail   ->-1 </br>
+        success-> 0
+        fail   ->-1
     option:
         close cursor display:0
         open  cursor display:1
