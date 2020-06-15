@@ -5,8 +5,8 @@
         success-> 0
         fail   ->-1
     option:
-        close cursor display:0
-        open  cursor display:1
+        close scanf input display:0
+        open  scanf input display:1
 
 2.int scanKeyboard()
     rtv:
