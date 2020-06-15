@@ -11,4 +11,12 @@
 2.int scanKeyboard()
     rtv:
         int data from screen [NOT ASCII CODE]
+            W:119
+            S:115
+            A:97
+            D:100
+
+            Enter:10
+            ESC:27
+            Delete:126
 ```
