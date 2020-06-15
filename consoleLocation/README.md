@@ -1,7 +1,6 @@
 ## Introduction:
-</hr>
-`consoleLocation.h`
 
+`consoleLocation.h`
 
 ```C
 #include <stdio.h>
